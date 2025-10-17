@@ -1,4 +1,4 @@
-# Pertemuan 4 - Bagian 1: Konsep & Filosofi Autentikasi (20 Menit) 
+# Pertemuan 4 -  Autentikasi
 Pada pertemuan ini, kita telah berhasil menambahkan sistem autentikasi yang lengkap dan 
 aman ke dalam aplikasi "LaraPress". Kita tidak hanya belajar cara menginstal Laravel Breeze, 
 tetapi juga memahami konsep fundamental di baliknya. Kini aplikasi kita siap untuk fitur 
@@ -11,8 +11,7 @@ selanjutnya: Otorisasi, di mana kita akan mengatur hak akses spesifik untuk seti
 
 
 
-## Deskripsi
-Bagian 2: Langkah-Langkah Praktikum 
+## Langkah-Langkah Praktikum 
 1. Buka Terminal: Masuk ke direktori proyek LaraPress Anda. 
 2. Instalasi Breeze via Composer: Perintah ini akan mengunduh paket Breeze dan 
 dependensinya. 
